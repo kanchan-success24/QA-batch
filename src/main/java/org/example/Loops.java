@@ -20,7 +20,7 @@ public class Loops {
 
          int i=1;
          while(i<=10){
-             System.out.println(i);
+             System.out.println(i + "Neha Shah");
              i++;
          }
 
