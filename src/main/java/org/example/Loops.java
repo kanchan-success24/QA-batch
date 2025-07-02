@@ -23,6 +23,7 @@ public class Loops {
              System.out.println(i + "Kanchan Kumari");
              i++;
          }
+        System.out.println("ydtrdrt");
 
     }
 
